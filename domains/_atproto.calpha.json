@@ -1,6 +1,7 @@
 {
     "owner": {
-        "username": "SuwonJ"
+        "username": "SuwonJ",
+        "email": "jangsuwon@kakao.com"
     },
     "records": {
         "TXT": "did=did:plc:xtjpspmimucm5amhhy6pj7cb"
